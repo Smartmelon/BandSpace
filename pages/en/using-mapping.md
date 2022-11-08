@@ -26,5 +26,5 @@ BPM is the number of beats per minute, which is the full song speed mark. It is 
 ## Align songs
 The editor defaults your audio file to start with the first beat, but most audio files start with a small space.    
 We have two ways to solve this problem.    
-The first is to use tools such as [Audacity](https://www.audacityteam.org/) or [格式工厂](http://www.pcgeshi.com/index.html) to pre-trim the audio file, cutting out the beginning of the blank segment.    
+The first is to use tools such as [Audacity](https://www.audacityteam.org/) or [FormatFactory](http://www.pcgeshi.com/index.html) to pre-trim the audio file, cutting out the beginning of the blank segment.    
 The second method is to fill in the offset value for the audio file, and the offset value is the blank time at the beginning of the audio file. You can measure the blank time by yourself through the familiar audio software and fill it in the "offset value" column without cutting the audio file.  
