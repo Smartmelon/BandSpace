@@ -1,91 +1,25 @@
 ---
 layout: zh_default
-title:  超弦乐队谱面编辑器
+title:  超弦乐队 编辑器
 tagline: A user-friendly beatmap tool for BandSpace VR
 language: zh
 ---
-# Getting Started
+# 准备工作
+想设计自己的超弦乐队谱面吗？先让我们准备好以下内容。   
 
-Want to make your own Ragnarock maps? Let's get started.  
+## 一台电脑  
+要运行超弦乐队编辑器，您需要一台装有Windows 10 或 Windows 11 的计算机。  
 
-- [System requirements](#system-requirements)
-- [Installation](#installation)
-- [Setting up your song](#setting-up-your-song)
-  - [Choosing a good song](#choosing-a-good-song)
-  - [Getting a song file](#getting-a-song-file)
-    - [Lossless encoding](#lossless-encoding)
-    - [Lossy encoding](#lossy-encoding)
+## 安装好软件
+目前仅支持通过Steam下载超弦乐队编辑器，您需要先在steam上获取并安装超弦乐队这款游戏，在启动游戏时，选择启动编辑器即可。  
 
-## System requirements
+## 用于制作谱面的歌曲
+### 选择一首适合的歌曲
+出彩的谱面少不了优秀的音乐。理论上，任何一首你喜欢的歌曲，都能拿来设计谱面。但超弦乐队是一款乐器演奏VR游戏，所以想获得好的游玩体验，建议您使用听觉上至少有一种乐器突出的歌曲。  
 
-To run Edda, you'll need a computer with Windows 10 or Windows 11.  
+### 获取歌曲文件
+当您确定好歌曲后，您需要提供一个合适的音频文件，导入至编辑器。  
+超弦乐队编辑器要求歌曲文件为 Vorbis 格式。Vorbis 格式的文件拓展名显示为.ogg。  
+如果您找不到.ogg文件，您也可以轻松地将其他格式（例如.wav或.mp3）的音频文件转换为.ogg文件。有很多软件可以做到这一点，例如[Audacity](https://www.audacityteam.org/)或者[格式工厂](http://www.pcgeshi.com/index.html)。  
 
-> **NOTE**: If you have a Linux or macOS computer, you may be able to use software like [WINE](https://www.winehq.org) or [Parallels](https://www.parallels.com/) to run Windows programs.  
->
-> Older versions of Windows (up to Windows 7) may work, but are not officially supported.
-
-## Installation
-
-Start by going to the GitHub repository's [Releases section](https://github.com/PKBeam/Edda/releases). There will be two `.zip` packages for you to download. 
-
-Most users should download the larger package - the one that is **not** named `NoRuntime`.  
-If you are unsure, download this one.
-  
-If you have the [.NET 6.0 runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime) installed, then you can use the smaller `NoRuntime` zip package.
-
-> **NOTE**: For versions of Edda before v1.0.0, you must use the [.NET 5.0 runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) instead.
-
-Once you've downloaded the zip package, extract it somewhere on your PC.
-
-Make sure your antivirus doesn't interfere with anything, and that you don't extract Edda into a privileged folder (such as `Program Files`).
-  
-## Setting up your song
-### Choosing a good song
-Every map needs a good track, so before we start placing notes we need to pick a good song.  
-
-Ragnarock is designed for metal genres but works great with many kinds of loud, energetic songs.  
-
-Be careful when mapping quiet songs, such as background music or "chill" songs - they may not work as well as you expect.
-
-### Getting a song file
-Once you've settled on a song, you need to get an appropriate file to use for mapping.  
-
-Edda requires the song file to be in Vorbis format. Files with the Vorbis format are characterised by a `.ogg` file extension.  
-
-> **NOTE**: Some `.ogg` files may rarely use the Opus codec, which is not supported by Edda.  
-> If you have `ffmpeg` installed, you can quickly check the codec by using `ffmpeg -i input.ogg` and reading the output.
-
-If you can't find an `.ogg` file, you'll have to make one yourself by converting from an audio file with a different format (such as `.wav` or `.mp3`).  
-
-There are plenty of applications that can do this:
-- [Audacity](https://www.audacityteam.org) is a popular user-friendly tool.  
-- If you know how to use command-line tools, [ffmpeg](https://ffmpeg.org) will do the job faster.   
-
-> **NOTE**: If you use a music streaming service like Spotify or Apple Music, you can play the song you want on your computer and record it to a file. 
-> You can do this in Audacity by setting your microphone input to your headphone/speaker output and starting a recording with the song playing.
-
-#### Lossless encoding
-
-If possible, you should obtain a lossless audio file (e.g. `.wav` or `.flac`) and transcode it into Vorbis format (`.ogg`).
-
-You should aim for a quality preset somewhere from 5 to 9.
-
-The quality 10 preset produces unnecessarily large files, and anything under quality 5 may sound noticeably poor. For reference, Spotify Premium uses quality 9.
-
-You can set the quality
-- in Audacity, by using the slider in the file save dialog (after you click "Export to OGG").
-- in ffmpeg, by using the `-q` flag, e.g. `ffmpeg -i input.wav -q 9 out.ogg`.
-
-#### Lossy encoding
-If you can't get a lossless file, you may have to make do with a lossy file (e.g. `.mp3`).  
-
-The easiest way to get one is via YouTube. There are plenty of websites that will take a YouTube link and turn it into an `.mp3` file for you.
-
-You can then transcode to Vorbis format by using Audacity or ffmpeg as described above in [Lossless encoding](#lossless-encoding).
-
-> **NOTE**: If possible, you should aim to get lossless files. Lossy files and in particular lossy-to-lossy transcoding will result in worse sound quality.  
-> If you can't find a lossless file, don't worry. It will be hard for most players to tell the difference, especially with Ragnarock's drum sounds playing over the music.
-
-___   
-
-Now that you have Edda installed and an audio file ready to go, head on over to [Using Edda](using-edda) to start making your map!  
+如果您已经启动了超弦乐队编辑器，并准备好了音频文件，接下来便按照[基础操作](using-mapping.md)，自由设计谱面吧。

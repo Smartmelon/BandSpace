@@ -4,25 +4,23 @@ title:  BandSpace Mapping
 tagline: A user-friendly beatmap tool for BandSpace VR
 language: en
 ---
-> **NOTE**: This website was last updated for BMapping v1.0.0.
 
-# About BandSpace Mapping
-Edda is a beatmap editor for the VR rhythm game [Ragnarock](https://store.steampowered.com/app/1345820/Ragnarock/).  
-Using Edda, you can map out your own songs and play them back in-game.
+Welcome to the Superstring Editor  
+Version number: V0.1.0  
+Last Updated: Nov 9, 2022  
 
-Sound interesting? Head on over to [Getting Started](/pages/en/getting-started) for instructions on how to use Edda.
+> You can design the spectrum for your favorite songs and generate lighting effects with one click. You can also export the spectrum file and share it with your friends!
 
-## Why make a new map editor?
-Ragnarock's beatmap format is derived from Beat Saber's, and the official map editor supported by the Ragnarock dev team is [MMA2](https://git.bsmg.dev/Top_Cat/MediocreMapAssistant2). So why make another map editor?  
+# About
 
-Firstly, there are major differences between Beat Saber and Ragnarock's song formats. Some aspects of Beat Saber's song format don't translate well to Ragnarock's, and others are unused or missing entirely. This means mappers have to manually edit JSON files or use some hacky solution, which doesn't create a good user experience.
+## What kind of software is this?
+Superstring Editor is the official spectrum editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070).  
+Using the editor, you can design a sheet music for any song you like and play it in the game.  
+You can also export and share your design's spectrum data, and any player who obtains this data can play your designed spectrum simply by placing it in the specified game path!  
+Want to start making now? Go to [Getting Started](getting-started.md) for detailed instructions.
 
-Secondly, Beat Saber maps are a lot more complex than Ragnarock ones - which means MMA2 has too much unused features/utility when used for Ragnarock mapping. This creates a cluttered and confusing experience for new mappers, especially those who aren't already familiar with the Beat Saber format.  
-  
-This is why Edda was created - to offer a more intuitive experience tailored to Ragnarock.     
-
-## Get in touch
-Do you have suggestions, bug reports, or something else to say?  
-
-Feel free to make a new [GitHub issue](https://github.com/PKBeam/Edda/issues) or come and discuss it over on the [Ragnacustoms](https://ragnacustoms.com) Discord server.
-
+## Did you find any problems during use?
+What did you find wrong? or have anything to say.  
+Please email them to **BandSpace@thesmartmelon.com**，  
+Or click to join [BandSpace Discord server ](https://discord.com/invite/HWbeUGfVpD)or[QQ group 648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg) to participate in the discussion.  
+Thank you for your support of Superstring, and we will continue to maintain the editor based on your feedback.  
