@@ -1,5 +1,5 @@
 # Setup
-baseurl:      ""
+baseurl:      "BandSpace"
 paginate:     1
 locale:       "en"
 
