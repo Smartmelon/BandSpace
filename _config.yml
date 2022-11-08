@@ -1,14 +1,7 @@
 # Setup
-title:        Getting Started | BandSpace Mapping
-tagline:      A user-friendly beatmap tool for BandSpace VR
 baseurl:      ""
 paginate:     1
 locale:       "en"
-
-# About/contact
-author:
-  name:       Smartmelon
-  url:        http://yourhomepage.com 
 
 # Gems
 gems:
