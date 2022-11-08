@@ -22,4 +22,4 @@ Once you have identified the song, you need to provide a suitable audio file and
 The Superstring Editor requires song files to be in Vorbis format. The file extension for Vorbis format appears as .ogg.    
 If you can't find the .ogg file, you can also easily convert audio files in other formats (such as .wav or .mp3) to .ogg files. There are plenty of software that can do this, such as [Audacity](https://www.audacityteam.org/) or [FormatFactory](http://www.pcgeshi.com/index.html)。
 
-If you've already started the Superstring Editor and have your audio files ready, then follow the [Getting Started](using-mapping.md) and design the sheet for free.
+If you've already started the Superstring Editor and have your audio files ready, then follow the [Getting Started](using-mapping) and design the sheet for free.
