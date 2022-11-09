@@ -1,19 +1,19 @@
 ---
 layout: en_default
-title:  BandSpace Mapping
-tagline: A user-friendly beatmap tool for BandSpace VR
+title:  BS Beatmap Editor
+tagline: 
 language: en
 ---
 # Getting Started
 Want to design your own superstring sheet music? Let's prepare the following first.
 
-## A computer
+## **A computer**
 To run Superstring Editor, you need a computer with Windows 10 or Windows 11.
 
-## Install the software
+## **Install the software**
 At present, it is only supported to download the Superstring Editor through Steam . You need to get and install the game Superstring on Steam first. When launching the game, select Launch Editor.  
 
-## Songs used to make scores
+## **Songs used to make scores**
 ### Choose a suitable song
 Great music is essential to a great score. In theory, any song you like can be used to design a score. But Superstring is a VR game with musical instruments, so for a good play experience, it is recommended that you use songs with at least one instrument that stands out from your hearing.  
 

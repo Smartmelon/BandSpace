@@ -1,7 +1,7 @@
 ---
 layout: zh_default
-title:  超弦乐队 编辑器
-tagline: A user-friendly beatmap tool for BandSpace VR
+title:  超弦乐队编辑器
+tagline: 
 language: zh
 ---
 
@@ -12,13 +12,13 @@ language: zh
 
 # 关于
 
-## 这是一款什么软件？
+## **这是一款什么软件？**
 超弦乐队编辑器是VR音乐游戏[超弦乐队](https://store.steampowered.com/app/2182070)的官方谱面编辑器。  
 使用该编辑器，您可为自己喜爱的任意歌曲设计谱面，并在游戏中游玩。  
 您还可以将设计的谱面数据导出分享，任何获得该数据的玩家，只需将该其放入指定的游戏路径，即可游玩您设计的谱面！  
 现在就想开始制作吗？前往[准备工作](getting-started)查看详细的使用说明。  
 
-## 使用过程中发现了问题？
+## **使用过程中发现了问题？**
 您发现了什么错误？或者有任何想说的内容。  
 请将它们通过邮件发往 **BandSpace@thesmartmelon.com**，  
 或者点击加入[BandSpace Discord服务器](https://discord.com/invite/HWbeUGfVpD)或[QQ群648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg)参与讨论。  

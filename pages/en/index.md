@@ -1,7 +1,7 @@
 ---
 layout: en_default
-title:  BandSpace Mapping
-tagline: A user-friendly beatmap tool for BandSpace VR
+title:  BS Beatmap Editor
+tagline: 
 language: en
 ---
 
@@ -13,13 +13,13 @@ Last Updated: Nov 9, 2022
 
 # About
 
-## What kind of software is this?
+## **What kind of software is this?**
 Superstring Editor is the official spectrum editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070).  
 Using the editor, you can design a sheet music for any song you like and play it in the game.  
 You can also export and share your design's spectrum data, and any player who obtains this data can play your designed spectrum simply by placing it in the specified game path!  
 Want to start making now? Go to [Getting Started](getting-started) for detailed instructions.
 
-## Did you find any problems during use?
+## **Did you find any problems during use?**
 What did you find wrong? or have anything to say.  
 Please email them to **BandSpace@thesmartmelon.com**，  
 Or click to join [BandSpace Discord server ](https://discord.com/invite/HWbeUGfVpD)or[QQ group 648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg) to participate in the discussion.  
