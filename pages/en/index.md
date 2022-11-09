@@ -5,7 +5,7 @@ tagline:
 language: en
 ---
 
-Welcome to the Superstring Editor  
+Welcome to the BS Beatmap Editor  
 Version number: V0.1.0  
 Last Updated: Nov 9, 2022  
 
