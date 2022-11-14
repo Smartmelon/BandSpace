@@ -7,7 +7,7 @@ language: zh
 
 欢迎使用超弦乐队编辑器  
 版本号：V0.1.0  
-最后更新时间：2022年11月9日
+最后更新时间：2022年11月14日
 > 您可以为自己喜爱的歌曲，随心设计谱面，一键生成灯光效果。还可以将谱面文件导出，分享给朋友游玩！
 
 # 关于
@@ -21,5 +21,5 @@ language: zh
 ## **使用过程中发现了问题？**
 您发现了什么错误？或者有任何想说的内容。  
 请将它们通过邮件发往 **BandSpace@thesmartmelon.com**，  
-或者点击加入[BandSpace Discord服务器](https://discord.com/invite/HWbeUGfVpD)或[QQ群648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg)参与讨论。  
+或者点击加入[BandSpace Discord服务器](https://discord.com/invite/HWbeUGfVpD)或[腾讯QQ群648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg)参与讨论。  
 感谢您对超弦乐队的支持，我们会根据大家的反馈，持续维护该编辑器。
