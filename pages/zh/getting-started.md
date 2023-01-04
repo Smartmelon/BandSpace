@@ -11,7 +11,7 @@ language: zh
 要运行超弦乐队编辑器，您需要一台装有Windows 10 或 Windows 11 的计算机。  
 
 ## **安装好软件**
-目前仅支持通过Steam下载超弦乐队编辑器，您需要先在steam上获取并安装超弦乐队这款游戏，在启动游戏时，选择启动编辑器即可。  
+请点击页面上方的【Download】按钮，或者[点击这里](https://github.com/Smartmelon/BandSpace/releases)，前往下载页面。  
 
 ## **歌曲**
 ### 选择一首适合的歌曲
