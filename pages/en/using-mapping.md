@@ -16,8 +16,8 @@ You will now see the beatmap Information Edit page.
 ## **Enter basic information about the song**
 Now you can import the audio file you prepared earlier into the beatmap. Click the "Import Song" button, find the audio file in the pop-up window, and click "Open". Again, only OGG files are currently supported, all other formats will not be displayed in the window.  
 Then you also need to add a cover image to the file. We recommend using the album cover of the song, only PNG format is supported currently, and we recommend the image to be at least 100x100 resolution for the best in-game visual effects. The step to importing the cover is the same as importing your audio file.  
-Finally, choose the game scene for your beatmap, which determines the time-space where you will be performing the song. We have selected the "Desert" scene for you by default, which can be modified by clicking the button "Generate Light".  
-As for the "Generate Light" function at the bottom, you don't need to worry finishing it by now, we recommend doing it after the beatmap design is completed. Click the "Edit" button on the left side of the editor and start designing your beatmap.  
+Finally, choose the game scene for your beatmap, which determines the time-space where you will be performing the song. We have selected a scene for you by default, which can be changed by clicking the dop-down box.  
+
 
 ## **Set song time**
 ### Find the BPM of the Song
@@ -99,7 +99,8 @@ The difficulty information of the beatmap is defaulted as EASY but can be modifi
 
 
 ## **Generate lighting effects for spectral surfaces**
-Remember the cool lighting effects you saw when playing the official beatmap? You can add the same effect to your own beatmap! There is no complicated operation required, just go back to the "Song" page and click the "Generate Lights" button at the bottom. But reminded that the current lighting arrangement refers to the beatmap of the drum, and if you have not designed the beatmap for the "drum", you probably won't be able to get a good lighting effect.  
+Remember the cool lighting effects you saw when playing the official beatmap? You can add the same effect to your own beatmap! There is no extra operation required, the system will generate a suited lighting effect for you when exit the beatmap editor, based on your finally saved beatmap.
+But reminded that the current lighting arrangement refers to the beatmap of the drum, and if you have not designed the beatmap for the "drum", you probably won't be able to get a good lighting effect.  
 
 ## **Save your work!**
 Lastly, Click the "Save" button on the bottom-right corner or just press "Ctrl"+"S" on the keyboard to save your work!  

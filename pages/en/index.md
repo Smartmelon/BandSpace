@@ -6,8 +6,8 @@ language: en
 ---
 
 Welcome to the BS Beatmap Editor  
-Version number: V0.1.0  
-Last Updated: Nov 14, 2022  
+Version number: V0.1.1  
+Last Updated: Jan 05, 2023  
 
 > You can design the spectrum for your favorite songs and generate lighting effects with one click. You can also export the spectrum file and share it with your friends!
 
@@ -18,6 +18,17 @@ Band Space Beatmap Editor is the official beatmap editor for the VR music game [
 In this editor, you can design a beatmap for any song you like and play it in the game.  
 You can also export and share your beatmap, and anyone can play the beatmap you designed by simply placing it in the specified game path!  
 Want to start making now? Go to [Prep Work ](getting-started) for detailed instructions.
+
+## **How to run this beatmap in the game**
+### PICO All-in-one Headset
+First make sure your PICO all-in-one headset has Band Space installed and has run the game at lease once, then connect the headset to your computer by using a data cable.
+Locate the following path: *This PC\PICO\Internal shared storage\Android\data\com.Smartmelon.BandSpace.Pico\files\CustomSongsPackage*， and place the beatmap file under this folder.
+Disconnect the PICO headset with your computer, put on the headset, start Band Space, and you can play the beatmap you just import under the "Custom" page in "SOLO Performence".
+
+### Steam VR
+First make sure your Steam has Band Space installed and has run the game at lease once.
+Locate the following installation pathe of Steam: *Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData*, place the beatmap file under this folder.
+Restart Band Space, and you can play the beatmap you just import under the "Custom" page in "SOLO Performence".
 
 ## **Did you find any problems during use?**
 What did you find wrong? or have anything to say.  

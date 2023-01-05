@@ -11,7 +11,7 @@ Want to design your own superstring sheet music? Let's prepare the following fir
 To run Band Space Beatmap Editor, you need a computer with Windows 10 or Windows 11.
 
 ## **Install the software**
-At present, it is only supported to download the Superstring Editor through Steam . You need to get and install the game Superstring on Steam first. When launching the game, select Launch Editor.  
+Please click the "Download" button above, or [ClickHere]（https://github.com/Smartmelon/BandSpace/releases)，to the download page.
 
 ## **Songs**
 ### Choose a suitable song
