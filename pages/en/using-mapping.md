@@ -1,6 +1,6 @@
 ---
 layout: en_default
-title:  BS Beatmap Editor
+title:  BandSpace Beatmap Editor
 tagline: 
 language: en
 ---
@@ -108,6 +108,6 @@ Lastly, Click the "Save" button on the bottom-right corner or just press "Ctrl"+
 
 Through the processes above, you have already finished making a beatmap.  
 
-You can now go to the file path prompted when saving, move the beatmap  to *Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData* in the installation path of the game. Then start the game, and select to play the song in SOLO Performance mode.
+You can now go to the file path prompted when saving, move the created map to the game folder for playing. For detailed instructions, please refer to the previously mentioned "[How to run this beatmap in the game](index#how-to-run-this-beatmap-in-the-game)" Then start the game, and select to play the song in SOLO Performance mode.
 
 If you like to have a more efficient mapping experience, please try our [Advanced Editing](advanced-operation). 

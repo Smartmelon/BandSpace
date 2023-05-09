@@ -1,6 +1,6 @@
 ---
 layout: en_default
-title:  BS Beatmap Editor
+title:  BandSpace Beatmap Editor
 tagline: 
 language: en
 ---
