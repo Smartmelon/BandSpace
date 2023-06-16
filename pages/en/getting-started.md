@@ -11,7 +11,7 @@ Want to design your own superstring sheet music? Let's prepare the following fir
 To run Band Space Beatmap Editor, you need a computer with Windows 10 or Windows 11.
 
 ## **Install the software**
-Please click the "Download" button above, or [ClickHere]（https://github.com/Smartmelon/BandSpace/releases)，to the download page.
+Please click the "Download" button above, or [ClickHere](https://github.com/Smartmelon/BandSpace/releases) to the download page.
 
 ## **Songs**
 ### Choose a suitable song

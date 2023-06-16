@@ -17,7 +17,7 @@ Last Updated: May 09, 2023
 BandSpace Beatmap Editor is the official beatmap editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070).  
 In this editor, you can design a beatmap for any song you like and play it in the game.  
 You can also export and share your beatmap, and anyone can play the beatmap you designed by simply placing it in the specified game path!  
-Want to start making now? Go to [Prep Work ](getting-started) for detailed instructions.
+Want to start making now? Go to [Prep Work](getting-started) for detailed instructions.
 
 ## **How to run this beatmap in the game**
 

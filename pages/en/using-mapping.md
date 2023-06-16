@@ -10,13 +10,14 @@ Now that you've launched the Band Space Editor and have your audio files ready, 
 
 ## **Create a new beatmap file**
 Before we start the design, we need to create a file to store beatmap information.  
-Click the "New" button on the startup page, enter the song name and artist name, and click "Create".  
+Click the "New" button on the startup page, enter the song title and artist(s), and click "Create".  
 You will now see the beatmap Information Edit page.
 
 ## **Enter basic information about the song**
-Now you can import the audio file you prepared earlier into the beatmap. Click the "Import Song" button, find the audio file in the pop-up window, and click "Open". Again, only OGG files are currently supported, all other formats will not be displayed in the window.  
-Then you also need to add a cover image to the file. We recommend using the album cover of the song, only PNG format is supported currently, and we recommend the image to be at least 100x100 resolution for the best in-game visual effects. The step to importing the cover is the same as importing your audio file.  
-Finally, choose the game scene for your beatmap, which determines the time-space where you will be performing the song. We have selected a scene for you by default, which can be changed by clicking the dop-down box.  
+Now you can import the audio file you prepared earlier into the beatmap. Click the "Song" button, find the audio file in the pop-up window, and click "Open". Again, only OGG files are currently supported, all other formats will not be displayed in the window.  
+Then you also need to add a cover image (jpeg, jpg and png formats less than 1MB). We normally will use the album cover of the song as the beatmap cover，and we recommend the image to be at 100x100 resolution for the best in-game visual effects. The step to importing the cover is the same as importing your song file.  
+You can also improt a short preview audio for your beatmap to play when it is selected on the game menu, it is recommended to capture 15-30 seconds of the climax of the song as the preview audio.  
+Finally, choose the game scene for your beatmap, which determines the time-space where you will be performing the song. The custom songs are only available in the scene of the Moon for now, scenes such as the Cyberpunk, Desert, Apocalypse, and Concerts will be available in the future.
 
 
 ## **Set song time**
