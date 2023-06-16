@@ -6,8 +6,8 @@ language: en
 ---
 
 Welcome to the BandSpace Beatmap Editor  
-Version number: V0.1.1  
-Last Updated: May 09, 2023  
+Version number: V0.2.0  
+Last Updated: June 16, 2023  
 
 > You can design the spectrum for your favorite songs and generate lighting effects with one click. You can also export the spectrum file and share it with your friends!
 

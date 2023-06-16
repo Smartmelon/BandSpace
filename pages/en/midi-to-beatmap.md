@@ -30,7 +30,3 @@ Then you are able to click "MIDI" button, search a prepared MIDI file in the pop
 After you've determined all the adjustments and assigned a MIDI track to at least one instrument, click "Generate!" button, wait a moment, and your custom beatmap is here! We will automatically open the beatmap folder for you! 
 It is important to note that we will not save your MIDI file to the beatmap folder, and the mechanism of the beatmap generation is somewhat random, so each generated beatmap will be somewhat different. 
 Place the beatmap folder into the specified path in [About](index), and you can play the beatmap you just import under the "Custom" page in "SOLO Performence"!
-## **生成！**
-在确定所有调整，并至少为一种乐器分配了MIDI轨道之后，点击“生成！”按钮，稍等片刻，您的谱面就完成啦！我们将自动为您打开谱面文件夹！  
-需要注意的是，我们并不会将您的MIDI文件保留至谱面文件夹，且谱面生成机制有一定随机性，因此每次生成的谱面都将是一定程度上不相同的。  
-将制作好的谱面文件夹放入[关于](index)的指定路径中，就可以开始享受你您的自制谱了。
