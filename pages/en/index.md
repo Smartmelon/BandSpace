@@ -6,8 +6,8 @@ language: en
 ---
 
 Welcome to the BandSpace Beatmap Editor  
-Version number: V0.2.1  
-Last Updated: June 20, 2023  
+Version number: V0.2.2  
+Last Updated: July 12, 2023  
 
 > You can design beatmaps for your favorite songs and generate lighting effects with one-click. You can also export your beatmap files and share them with your friends!
 
