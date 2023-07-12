@@ -14,28 +14,16 @@ Last Updated: June 20, 2023
 # About
 
 ## **What kind of software is this?**
-BandSpace Beatmap Editor is the official beatmap editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070).  
-In this editor, you can design a beatmap for any song you like and play it in the game.  
-You can also export and share your beatmap, and anyone can play the beatmap you designed by simply placing it in the specified game path!  
-Want to start making now? Go to [Prep Work](getting-started) for detailed instructions.
+BandSpace Beatmap Editor is the official beatmap editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070). In this editor, you can design beatmaps for any song you like and play it in the game.  
 
-## **How to run this beatmap in the game**
+You can also export and share your beatmap, and anyone can play the beatmap you designed by simply placing it in the specified game path! For detailed instructions, please refer to [Play Custom Beatmap](play-custom-map).  
 
-### Meta Quest 2 Headset
-First make sure your Meta Quest 2 headset has Band Space installed and has run the game at least once, then connect the headset to your computer by using a data cable.
-Locate the following path:  
-*Meta Quest2\Android\data\com.Smartmelon.BandSpace.Oculus\files\CustomSongsPackage*  
-Then place your compressed beatmap files(only Zip or RAR format is supported) or unpacked beatmap folders under the path. Put on the headset, start Band Space, and you can play the beatmaps you just import under the "Custom" page in "SOLO Performence".
+Want to start making your own map now? Go to [Pre Work](before-mapping) to prepare your want-to-map audio.  
 
-### Steam VR
-First make sure your Steam has Band Space installed and has run the game at lease once.
-Locate the following installation pathe of Steam:  
-*Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData*  
-Then place your compressed beatmap files(only Zip or RAR format is supported) or unpacked beatmap folders under the path. Put on the headset, start Band Space, and you can play the beatmaps you just import under the "Custom" page in "SOLO Performence".
+If you've already have your audio files ready, then follow the [Mapping Instruction](mapping-instruction) to help you design some unique beatmaps.
+  
+You can also find an existing MIDI file online that matches your audio file, our [MIDI to Beatmap](midi-to-beatmap) feature will automatically create the beatmaps basic on the MIDI file for you.
 
-### PICO All-in-one Headset
-First make sure your PICO all-in-one headset has Band Space installed and has run the game at lease once, then connect the headset to your computer by using a data cable.
-Locate the following path: *This PC\PICO\Internal shared storage\Android\data\com.Smartmelon.BandSpace.Pico\files\CustomSongsPackage*， place the unpacked beatmap folders under the path. Disconnect the PICO headset with your computer, put on the headset, start Band Space, and you can play the beatmap you just import under the "Custom" page in "SOLO Performence".
 
 
 ## **Did you find any problems during use?**

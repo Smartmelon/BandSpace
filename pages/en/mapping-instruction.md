@@ -78,7 +78,7 @@ Note track: The keyboard has a total of 7 note tracks (Track no.1, 2, 3, 4, 5, 6
 **Hold (play the key once and hold or move the hand position till the note finishes)**: In hold note edit mode, click the first time to place the head note on a note cell, then click the second time on another note cell to place the end note (track can be changed).
 
 #### **Drum**
-Note tracks: There are a total of 6 note tracks on the drum (Track no.1, 2, 3, 4, 5, and 6 from left to right). There can be up to two notes at the same time on the same beat point for the drum. Note that the corresponding drum pieces and their height in the game are different. (Tracks no.1 and 6 tracks are the cymbals, they are the highest; tracks no.2 and 5 are the two drums on the bottom left and right, and tracks no.3 and 4 are the two drums that are just in front of your chest.  
+Note tracks: There are a total of 6 note tracks on the drum (Track no.1, 2, 3, 4, 5, and 6 from left to right). There can be up to two notes at the same time on the same beat point for the drum. Note that the corresponding drum pieces and their height in the game are different. Tracks no.1 and 6 tracks are the cymbals, they are the highest; tracks no.2 and 5 are the two drums on the bottom left and right, and tracks no.3 and 4 are the two drums that are just in front of your chest.  
 
 **Normal Hit/Slam**: toggle Normal Hit/Slam edit mode to select only one of them  
 
@@ -99,9 +99,8 @@ There are 5 levels of difficulty, from easiest to hardest are: EASY, COMMON, HAR
 The difficulty information of the beatmap is defaulted as EASY but can be modified in the drop-down box in the upper-right corner. In one song file, each of the 4 instrument map can be set to different difficulty levels, and the difficulty information will be displayed in-game on the song selection page.  
 
 
-## **Generate lighting effects for spectral surfaces**
-Remember the cool lighting effects you saw when playing the official beatmap? You can add the same effect to your own beatmap! There is no extra operation required, the system will generate a suited lighting effect for you when exit the beatmap editor, based on your finally saved beatmap.
-But reminded that the current lighting arrangement refers to the beatmap of the drum, and if you have not designed the beatmap for the "drum", you probably won't be able to get a good lighting effect.  
+## **Generate lighting effects for beatmaps**
+Remember the cool lighting effects when playing the official beatmaps? You can add the same effect to your own beatmaps! There is no extra operation required, the system will generate a suited lighting effect for you when saving the beatmap. But reminded that the current lighting arrangement refers to the beatmap of the drum, and if you have not designed the beatmap for the "drum", you probably won't be able to get a good lighting effect.  
 
 ## **Save your work!**
 Lastly, Click the "Save" button on the bottom-right corner or just press "Ctrl"+"S" on the keyboard to save your work!  
@@ -109,6 +108,35 @@ Lastly, Click the "Save" button on the bottom-right corner or just press "Ctrl"+
 
 Through the processes above, you have already finished making a beatmap.  
 
-You can now go to the file path prompted when saving, move the created map to the game folder for playing. For detailed instructions, please refer to the previously mentioned "[How to run this beatmap in the game](index#how-to-run-this-beatmap-in-the-game)" Then start the game, and select to play the song in SOLO Performance mode.
+You can now go to the file path prompted when saving, move the created map to the game folder for playing (For detailed instructions, please refer to [Play Custom Beatmap](play-custom-map)). Then start the game, and select to play the song in SOLO Performance mode.
 
-If you like to have a more efficient mapping experience, please try our [Advanced Editing](advanced-operation). 
+
+
+# Advanced Editing  
+
+Advanced editing techinique could help you to have a more efficient mapping experience.
+
+## **Number of Beats per bar**
+The number of beats per bar (corresponding to the upper numeral of a time signature), this value changes the time sign count on the timeline and is displayed numerically in each bar.  
+
+## **Beat breakdown**
+The number of subdivided beat points per beat, you can see this as the average number of slices of a segment, this will change the density of the minimum beat point of a song (the granularity of the edit table), the larger the beat subscore allows you to write a more dense number of notes.  
+
+## **Add a Bookmark**
+Bookmarks can be used to mark key points on the beatmap, such as the beginning of a chorus, the beginning of an instrument's solo. Adding a bookmark makes it easier to find where you need the beatmap.  
+
+You can move your mouse to the empty space between the edit grid and the page scroll bar. You will see an orange pen-like icon appear when you hover your mouse over it, then click to add a bookmark to the current position, type whatever you want to note down, and click on any blank area to save.  
+
+If you want to change or remove an existing bookmark, find and click on the bookmark, type or delete and click on any space area to save.  
+
+## **Batch selection**
+In "Edit", you can select multiple notes by left-clicking on a bland space and dragging your mouse  over the notes, the selected notes will be highlighted in green. After at least one note has been selected, click the right mouse button to deselect them.  
+
+### Batch copy
+After selecting at least one note in the box, move the mouse to the position where the note can be added, left-click on a note cell again to copy all the selected notes, and note that your cursor point corresponds to the bottom-left-most note of all the notes selected (The bottom-left-most note will be pasted at your cursor point).  
+
+### Batch deletion
+After selecting at least one note in the box, use the keyboard's "Delete" key to delete all the notes selected.  
+
+## **Autosave**
+Accidentally closed the editor and forgot to save your changes? Don't worry, the editor has automatically saved the data every 2 minutes to prevent you from losing your dedicated work.
