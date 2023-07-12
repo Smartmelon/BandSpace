@@ -18,7 +18,7 @@ BandSpace Beatmap Editor is the official beatmap editor for the VR music game [B
 
 By simply placing the custom beatmaps in the specified game path refer to [Play Custom Map](play-custom-map), and you are able to enjoy the custom beatmap in the game.
 
-Want to start making your own map now? Go to [Befor Mapping](before-mapping) to prepare your want-to-map audio.  
+Want to start making your own map now? Go to [Before Mapping](before-mapping) to prepare your want-to-map audio.  
 
 If you've already have your audio files ready, then follow the [Mapping Instruction](mapping-instruction) to help you design some unique beatmaps.
   
