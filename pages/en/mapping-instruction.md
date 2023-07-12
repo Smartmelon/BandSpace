@@ -108,7 +108,7 @@ Lastly, Click the "Save" button on the bottom-right corner or just press "Ctrl"+
 
 Through the processes above, you have already finished making a beatmap.  
 
-You can now go to the file path prompted when saving, move the created map to the game folder for playing (For detailed instructions, please refer to [Play Custom Beatmap](play-custom-map)). Then start the game, and select to play the song in SOLO Performance mode.
+You can now go to the file path prompted when saving, move the created map to the game folder for playing (For detailed instructions, please refer to [Play Custom Map](play-custom-map)). Then start the game, and select to play the song in SOLO Performance mode.
 
 
 

@@ -19,7 +19,7 @@ language: zh
 接着您就可以点击“MIDI”按钮，在弹出窗口中找到并点击“打开”来导入一份准备好的MIDI文件。只有与歌曲相匹配的MIDI文件，才能为您生成与歌曲相匹配的游戏谱面。成功导入MIDI文件后，将为您自动跳转至MIDI轨道分配页面。 
  
 ### **哪里可以获得MIDI文件？** 
-您可以通过例如[BitMidi](https://bitmidi.com/) 或 [midiworld](https://www.midiworld.com/) 等网站寻找并下载MIDI文件，或者使用[Musescore](https://musescore.com/) 或 [Reaper](https://www.reaper.fm/)等音乐编辑软件来制作您的MIDI文件。
+您可以通过例如 [BitMidi](https://bitmidi.com/) 或 [midiworld](https://www.midiworld.com/) 等网站寻找并下载MIDI文件，或者使用 [Reaper](https://www.reaper.fm/) 或 [Musescore](https://musescore.com/) 等音乐编辑软件来制作您的MIDI文件。
  
 ## **MIDI轨道分配**
 **MIDI文件** 会显示您正在使用的MIDI文件的名字，点击以弹出窗口来重新导入或替换MIDI文件。    
@@ -29,4 +29,4 @@ language: zh
 ## **生成！**
 在确定所有调整，并至少为一种乐器分配了MIDI轨道之后，点击“生成！”按钮，稍等片刻，您的谱面就完成啦！我们将自动为您打开谱面文件夹  
 需要注意的是，我们并不会将您的MIDI文件保留至谱面文件夹，且谱面生成机制有一定随机性，因此每次生成的谱面都将是一定程度上不相同的。  
-将制作好的谱面文件夹放入[关于](index)的指定路径中，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！
+将制作好的谱面文件夹放入[游玩自制谱](play-custom-map)的指定路径中，即可在游戏中玩到刚刚导入的谱面啦！

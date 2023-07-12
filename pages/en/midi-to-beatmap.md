@@ -29,4 +29,4 @@ Then you are able to click "MIDI" button, search a prepared MIDI file in the pop
 ## **Generate!**
 After you've determined all the adjustments and assigned a MIDI track to at least one instrument, click "Generate!" button, wait a moment, and your custom beatmap is here! We will automatically open the beatmap folder for you! 
 It is important to note that we will not save your MIDI file to the beatmap folder, and the mechanism of the beatmap generation is somewhat random, so each generated beatmap will be somewhat different. 
-Place the beatmap folder into the specified path metioned in [Play Custom Beatmap](play-custom-map), and you can play the beatmap in the game.
+Place the beatmap folder into the specified path metioned in [Play Custom Map](play-custom-map), and now you can play the beatmap in the game！
