@@ -28,7 +28,8 @@ language: zh
  
 
 ## **使用过程中发现了问题？**
-发现了什么错误？或者有任何想说的内容。  
-您可以点击加入我们的[Discord](https://discord.gg/bandspace)参与讨论，
-或者将它们通过邮件发往 **BandSpace@thesmartmelon.com**。
-感谢您对超弦乐队的支持，我们会根据大家的反馈，持续维护该编辑器。
+发现了什么错误？或者有任何想说的内容？  
+您可以点击加入我们的[Discord](https://discord.gg/bandspace)参与讨论，  
+或者将它们通过邮件发往 **BandSpace@thesmartmelon.com**。  
+
+感谢您对超弦乐队的支持！
