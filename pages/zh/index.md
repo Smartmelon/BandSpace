@@ -6,14 +6,19 @@ language: zh
 ---
 
 欢迎使用超弦乐队编辑器  
-版本号：V0.2.2  
-最后更新时间：2023年7月12日
-> 您可以为自己喜爱的歌曲，随心设计谱面，一键生成灯光效果。还可以将谱面文件导出，分享给朋友游玩！
+版本号：V1.0.0  
+最后更新时间：2025年1月20日
+> 您可以为自己喜爱的歌曲，随心设计谱面，自动生成灯光效果。
+> 欢迎将谱面上传分享至MOD社区，感谢您对社区建设出的一份力量！
 
 # 关于
 
 ## **这是一款什么软件？**
-超弦乐队编辑器是VR音乐游戏[超弦乐队](https://store.steampowered.com/app/2182070)的官方谱面编辑器。使用该编辑器，您可为自己喜爱的任意歌曲设计谱面，您还可以将设计的谱面文件导出分享，任何获得该谱面的玩家都可以玩到您设计的谱面。  
+该软件是VR音乐游戏**超弦乐队**的官方谱面编辑器，您可以在[Meta](https://www.meta.com/experiences/band-space/26019802470968635/)和[Steam](https://store.steampowered.com/app/2182070)中找到这款游戏。
+
+前往[Mod.io](https://mod.io/g/bandspace)
+
+使用该编辑器，您可以为自己喜爱的歌曲设计谱面，还可以将设计的谱面文件上传分享至[Mod.io](https://mod.io/g/bandspace)社区，让所有玩家都可以玩到您设计的谱面。  
 
 只需简单的将自制谱放入[游玩自制谱](play-custom-map)中指定的游戏路径，即可在游戏中享受导入的自制谱了！  
 
@@ -25,7 +30,7 @@ language: zh
  
 
 ## **使用过程中发现了问题？**
-您发现了什么错误？或者有任何想说的内容。  
-请将它们通过邮件发往 **BandSpace@thesmartmelon.com**，  
-或者点击加入[BandSpace Discord服务器](https://discord.com/invite/hZA9xsfYnn)或[腾讯QQ群648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg)参与讨论。  
+发现了什么错误？或者有任何想说的内容。  
+您可以点击加入我们的[Discord](https://discord.gg/bandspace)参与讨论，
+或者将它们通过邮件发往 **BandSpace@thesmartmelon.com**。
 感谢您对超弦乐队的支持，我们会根据大家的反馈，持续维护该编辑器。

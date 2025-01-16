@@ -7,20 +7,20 @@ language: zh
 
 # 如何在游戏中游玩自制谱？  
 
-## **Meta Quest 2 一体机**
-首先请确保您的Meta Quest 2 一体机已经安装并运行过《超弦乐队》，使用数据线将该一体机连接到电脑，并找到以下路径：  
+## **Mod.io**
+通过网页端[Mod.io](https://mod.io/g/bandspace)上传谱面并将您的作品分享到社区，所有人都可以通过内置的MOD功能直接在游戏内轻松的下载并游玩您的巨作。
 
-#### *Android\data\com.Smartmelon.BandSpace.Oculus\files\CustomSongsPackage*   
+## **本地导入**
+当然你也可以在分享作品到社区前，先通过本地导入的方式来测试谱面。
+### **Meta**
+首先请确保您的Meta设备已经安装并运行过《超弦乐队》，使用数据线将该一体机连接到电脑，并找到以下路径：  
 
-然后将您的谱面压缩文件（仅支持Zip或RAR格式）或已解压的谱面文件夹放入该路径下。戴上头盔，启动《超弦乐队》，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！  
-## **Steam VR**
+#### *Android\data\com.Smartmelon.BandSpace.Meta\files\CustomSongsPackage*  
+
+然后将您的谱面压缩文件（仅支持Zip格式）或已解压的谱面文件夹放入该路径下。戴上头盔，启动《超弦乐队》，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！  
+### **Steam**
 首先请确保您已经在Steam中安装并运行过《超弦乐队》，找到Steam安装路径中的以下文件夹：  
   
 #### *Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData*  
 
-然后将您的谱面压缩文件（仅支持Zip或RAR格式）或已解压的谱面文件夹放入该路径下。戴上头盔，启动《超弦乐队》，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！
-## **PICO一体机**
-首先请确保您的PICO一体机已经安装并运行过《超弦乐队》，并使用数据线将该一体机连接到电脑。找到以下路径
-
-#### *Android\data\com.Smartmelon.BandSpace.Pico\files\CustomSongsPackage*  
-然后将已解压的谱面文件放入该路径下。断开PICO一体机与电脑的连接，戴上头盔，启动《超弦乐队》，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！ 
+然后将您的谱面压缩文件（仅支持Zip格式）或已解压的谱面文件夹放入该路径下。戴上头盔，启动《超弦乐队》，即可在【单人模式】中的【自制谱面】页面，选择游玩您刚导入的谱面啦！

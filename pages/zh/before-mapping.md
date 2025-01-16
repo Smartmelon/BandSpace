@@ -10,8 +10,8 @@ language: zh
 ## **一台电脑**  
 要运行超弦乐队编辑器，您需要一台装有Windows 10 或 Windows 11 的计算机。  
 
-## **安装好软件**
-请点击页面上方的【Download】按钮，或者[点击这里](https://github.com/Smartmelon/BandSpace/releases)，前往下载页面。  
+## **安装谱面编辑器**
+点击页面上方的【Download】按钮，或者[点击这里](https://github.com/Smartmelon/BandSpace/releases)前往下载页面安装超弦乐队谱面编辑器。  
 
 ## **歌曲**
 ### 选择一首适合的歌曲
@@ -19,7 +19,8 @@ language: zh
 
 ### 获取歌曲文件
 当您确定好歌曲后，您需要提供一个合适的音频文件，导入至编辑器。  
-超弦乐队编辑器要求歌曲文件为 Vorbis 格式。Vorbis 格式的文件拓展名显示为.ogg。  
-如果您找不到.ogg文件，您也可以轻松地将其他格式（例如.wav或.mp3）的音频文件转换为.ogg文件。有很多软件可以做到这一点，例如[Audacity](https://www.audacityteam.org/)或者[格式工厂](http://www.pcgeshi.com/index.html)。  
+请注意，超弦乐队编辑器要求歌曲文件格式显示为 **.ogg**的文件拓展名。  
+如果您找不到 **.ogg**文件，您也可以轻松地将其他格式（例如 **.wav**或 **.mp3**）的音频文件转换为 **.ogg**文件。
+有很多音频转换软件可以做到这一点，例如[Audacity](https://www.audacityteam.org/)或者[格式工厂](http://www.pcgeshi.com/index.html)。  
 
-如果您已经启动了超弦乐队编辑器，并准备好了音频文件，接下来便按照[操作指南](mapping-instruction)，自由设计谱面吧。
+如果您已经准备好了音频文件，接下来便按照[操作指南](mapping-instruction)，自由设计谱面吧。
