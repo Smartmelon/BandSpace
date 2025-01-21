@@ -8,7 +8,7 @@ language: zh
 # 如何在游戏中游玩自制谱？  
 
 ## **Mod.io**
-通过网页端[Mod.io](https://mod.io/g/bandspace)上传谱面压缩包，并将您的作品分享到社区。  
+通过[Mod.io](https://mod.io/g/bandspace)上传谱面压缩包，并将您的作品分享到社区。  
 所有人都可以通过内置的MOD功能直接在游戏内轻松的下载并游玩您的巨作。
 
 ## **本地导入**

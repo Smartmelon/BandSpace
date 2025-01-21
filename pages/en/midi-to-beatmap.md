@@ -36,4 +36,5 @@ After making sure all adjustments are correct, and you've assigned MIDI tracks t
 Please note that the beatmap generation mechanism has some randomness. Therefore, the generated beatmaps will have a certain degree of variation each time.
 
 ## **Edit**
-After the beatmap is generated, you can select the instrument for which you have a completed beatmap, click the **Open Editor** button, and enter into editing mode to make more adjustments to this instrument's beatmap. For more details please see [Mapping Instruction](mapping-instruction).
+After the beatmap is generated, you can select the instrument for which you have a completed beatmap, click the **Open Editor** button, and enter into editing mode to make more adjustments to this instrument's beatmap.  
+For more details please see [Mapping Instruction](mapping-instruction).

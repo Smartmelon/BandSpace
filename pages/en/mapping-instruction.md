@@ -21,14 +21,15 @@ Before proceeding with editing proper, please fill out following information abo
 Input name of song and artist , plus providing a signature identifying yourself as map's author.
 
 ### Cover Art & Audio File
-Attach an image using **.jpg** or **.png** as cover art for this map − recommended an image of album’s cover correlating music piece 1:1.  
+Attach an image using **.jpg** or **.png** as cover art for this map − recommended to use a 1:1 album cover image corresponding to the song.   
 Import prepared audio files using format **.ogg**.
 
 ### Preview Clips
 Preview clips perform audio extracts when pre-selecting this music piece within game; After setting clips starting point and duration for previewing should press "play button" for audition preview section - Suggestion making climax sections within music piece as starting point; The length during preview period should range from 15-25 seconds.
 
 ### BPM
-BPM refers Beats Per Minute unit which impacts each dominant rhythmic dividers' relative position against songs while operating editor mode: If not being clear about BPM held by applying audio files may through some websites available online assisting measuring process such like [vocalremover](https://vocalremover.org/key-bpm-finder) or [AudioDirector](https://directorsuite-online.cyberlink.com/en/audio-editor/vocal-remover) for acquiring information needed.
+BPM (Beats Per Minute) is a unit of beat frequency per minute, which will affect the position of each major beat auxiliary line relative to the song in the editor.  
+If you are unsure of the BPM of the audio file you are using, there are some online websites that can help you measure, such as [vocalremover](https://vocalremover.org/key-bpm-finder) and [AudioDirector](https://directorsuite-online.cyberlink.com/en/audio-editor/vocal-remover).
 
 ### Time Offset
 The song time offset refers to the blank time between the start of your audio file and the first beat. The audio will play from position of offset value.  
@@ -47,9 +48,11 @@ If you don't have a video clip, don't worry just leave it blank that we'll autom
 
 ### Instruments & Difficulty
 BandSpace offers four instrumental gameplay: drums, keyboards,bass,and guitar. You can create a total four maps according to instruments or just features certain types among them.  
-As each instrument has a different style of gameplay, their beatmap editing interfaces and rules also vary. Further reading approaches on difference across playable instruments beneath **Beatmap Editing > Instrument Differences**.  
+As each instrument has a different style of gameplay, their beatmap editing interfaces and rules also vary.  
+Further reading approaches on difference across playable instruments beneath  **Beatmap Editing > Instrument Differences**.  
 
-The difficulty of the beatmap is divided into 5 levels, from the simplest to the hardest: Easy, Common, Hard, Expert and Expert+.  
+The difficulty of the beatmap is divided into 5 levels, from the simplest to the hardest:  
+**Easy**, **Common**, **Hard**, **Expert** and **Expert+**  
 You can set the difficulty by modifying it in the right bottom dropdown box. Different instrument can be set to different difficulty.
 
 ### Open Editor
@@ -64,13 +67,19 @@ Of course, we welcome and encourage you to upload your created maps to share on 
 ### Basic operations
 **Cursor Interval**: The cursor interval determines the number of segments evenly divided between the beats.  
 If this value is **1/1**, there is only one segment between beats, and the note placed with the mouse will only adhere to the primary and secondary guide lines between two beats. If this value is **1/4**, each beat will be divided into four segments, placed notes will be attracted to nearest dividing auxiliary line.  
-**Place Notes**: According to cursor interval, place specified note type on nearest track and guide line by clicking **Left Mouse Button**.  
+
+**Place Notes**: According to cursor interval, place specified note type on nearest track and guide line by clicking Left Mouse Button.  
+
 **Move Notess**: Hover the mouse over an existing single note, use **Alt+Left Mouse Button** to grab and move the note, then release **Left Mouse Button** to place it in a new position.  
+
 **Select notes**: Use **Shift+Left Mouse Button** to select a note; when notes are selected, use **Ctrl+A** to deselect all notes.  
+
 **Link Long Notes**: While multiple notes are selected, you can use the shortcut key **L** to create long notes with these selected notes as nodes. Be aware of the different rules for long notes for different instruments; if these rules are not met, it may fail to generate.  
+
 **Deletion**:  
 Method 1. Use the Delete tool in the left toolbar to enter Delete mode. In this mode, click **Left Mouse Button** on a note to delete it.  
 Method 2. When notes are selected, you can use the **Del** key to quickly remove all selected notes.  
+
 **Save**: Closing the editor will lose unsaved data, so remember to save your work before closing. Use **Ctrl+S** to save the current beatmap data. You can also enable auto-save in the options, after which the editor will automate a save every five minutes.
 
 ### Instrument Differences
@@ -89,7 +98,7 @@ The keyboard has a total of 7 tracks. At the same time, a maximum of only two no
 Due to the keyboard's specificity, visually, notes are designed to be twice as wide as the track. This means that in actual gameplay notes will cover two adjacent tracks. For example, placing a note on track 2 would actually cover half of both track 1 and track 3.  
 Therefore in map design it's recommended that notes at the same time are separated by at least one lane so visually they don't overlap. (Of course overlapping doesn't affect playability; it's just that if you put two handles too close together they might bump into each other.)  
 
-**Normal Notes**: Players press the corresponding piano key when the normal note reaches the judgement line.
+**Normal Notes**: Players press the corresponding piano key when the normal note reaches the judgement line.  
 **Long Notes**: Keyboard long notes can span across tracks. Players press and hold the piano key when long notes reach the judgement line and slide on it following its movement.  
 
 #### **Bass**
@@ -114,12 +123,21 @@ The player performs a single strum as long notes reach judgement line while cons
 Advanced operation techniques can assist you in achieving a more efficient editing experience.  
 
 **Select**: Use **Ctrl+Left Mouse Button** to summon the multiple-selection box, and select multiple notes simultaneously.  
+
 **Cut**: Use **Ctrl+X** to cut the selected notes from the beatmap and move them to clipboard.  
+
 **Copy**: Use **Crtl+C** can copy selected notes onto clipboard.  
+
 **Paste**: Use **Ctrl+V** to paste all the notes from the clipboard to the beatmap based on the red playback line.  
+
 **Overwrite Paste**: Use **Ctrl+Shift+V** to overwrite paste all notes from clipboard onto beatmap based on red playline.  
+
 **Undo**: Use **Crtl+Z** or **Ctrl+Shift+Y** to undo most recent operation or changes.  
+
 **Redo**: Use **Crtl+Y** or **Ctrl+Shift+Z** to reapply most recently undone action.  
+
 **Bookmarks**: Press **B** key to add a bookmark based on the time of the red playback line. Users can edit bookmark content and color. The bookmarks will appear on the song progress bar, click these bookmarks to quickly jump to corresponding time nodes.  
+
 **Editor Scale**: Use **-** and **=** keys to control beatmap scale.  
+
 **Song Speed**: Use **Up Arrow** and **Down Arrow** keys to control speed of song playback.

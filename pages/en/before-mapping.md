@@ -15,7 +15,7 @@ Please click the "Download" button above, or click [Here](https://github.com/Sma
 
 ## **Songs**
 ### Choose a suitable song
-A good beatmap can't be separated from excellent music. In theory, any song you like can be used for designing maps. However, since BandSpace is an VR music game that involves playing an instrument, for a good gaming experience it is recommended that you choose songs where at least one instrument stands out audibly.  
+A good beatmap can't be separated from excellent music. In theory, any song you like can be used for designing maps. However, since BandSpace is an VR rhythm game that involves playing instruments, for a good gaming experience it is recommended that you choose songs where at least one instrument stands out audibly.  
 
 ### Provide your File of Song
 Once confirming your song choice, provide a suitable audio file format which will be imported into editor.  

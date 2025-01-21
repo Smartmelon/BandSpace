@@ -5,9 +5,9 @@ tagline:
 language: en
 ---
 
-Welcome to BandSpace Beatmap Editor
-Version: V1.0.0
-Last update: January 21, 2025 
+Welcome to BandSpace Beatmap Editor  
+Version: V1.0.0  
+Last update: January 21, 2025  
 
 > You can design your favorite songs and automatically generate lighting effects.  
 > Welcome to upload and share the songs to the MOD community, thank you for your contribution to community building!
