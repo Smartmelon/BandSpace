@@ -11,7 +11,7 @@ language: zh
 要运行超弦乐队编辑器，您需要一台装有Windows 10 或 Windows 11 的计算机。  
 
 ## **安装谱面编辑器**
-点击页面上方的【Download】按钮，或者[点击这里](https://github.com/Smartmelon/BandSpace/releases)前往下载页面安装超弦乐队谱面编辑器。  
+点击页面上方的【Download】按钮，或者[点击这里](https://github.com/Smartmelon/BandSpaceEditor/releases/tag/V1.0)前往下载页面安装超弦乐队谱面编辑器。  
 
 ## **歌曲**
 ### 选择一首适合的歌曲

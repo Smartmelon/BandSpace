@@ -11,7 +11,7 @@ Want to create your own BandSpace beatmaps? Let's prepare the following first.
 To run the BandSpace Editor, you will need a computer running either Windows 10 or Windows 11.
 
 ## **Install Beatmap Editor**
-Please click the "Download" button above, or click [Here](https://github.com/Smartmelon/BandSpace/releases) to navigate to the releases page.
+Please click the "Download" button above, or click [Here](https://github.com/Smartmelon/BandSpaceEditor/releases/tag/V1.0) to navigate to the releases page.
 
 ## **Songs**
 ### Choose a suitable song
