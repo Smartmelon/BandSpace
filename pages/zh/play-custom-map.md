@@ -22,6 +22,6 @@ language: zh
 ### **Steam**
 首先请确保您已经在Steam中安装并运行过《超弦乐队》，找到Steam安装路径中的以下文件夹：  
   
-#### *Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData*  
+#### *Steam\steamapps\common\Band Space\BandSpace_Data\GameData\AutoCreateData\SongData*  
 
 然后将您的谱面压缩文件（仅支持Zip格式）或已解压的谱面文件夹放入该路径下。戴上头盔，启动**超弦乐队**，即可在**单人模式**中的**自制谱面**专辑页，选择游玩您刚导入的谱面啦！

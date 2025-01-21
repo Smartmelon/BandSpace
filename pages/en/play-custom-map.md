@@ -24,6 +24,6 @@ Then place your beatmap zip file (only Zip format is supported) or extracted bea
 ### **Steam**
 First, please ensure that you have installed and run **BandSpace** in Steam. Find the following folder in the Steam installation path:  
 
-#### *Steam\steamapps\common\Band Space\BandSpace_Data\AutoCreateData\SongData*  
+#### *Steam\steamapps\common\Band Space\BandSpace_Data\GameData\AutoCreateData\SongData*  
 
 Then place your beatmap zip file (only Zip format supported) or extracted beatmap folder into this path. Put on your headset, start **BandSpace**, and you can choose to play the beatmap you just imported in the **Custom** album under **Single Mode**!
