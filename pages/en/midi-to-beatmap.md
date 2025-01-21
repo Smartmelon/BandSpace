@@ -1,32 +1,39 @@
 ---
 layout: en_default
-title:  BandSpace Beatmap Editor
+title:  BandSpace Editor
 tagline: 
 language: en
 ---
 
-# MIDI to Beatmap
-By importing MIDI files，we will generate custom beatmaps for you that are exclusive to [BandSpace](https://store.steampowered.com/app/2182070).  
- 
-## **Create a new beatmap file**
-Before we start the design, we need to create a file to store beatmap information.  
-Click the "MIDI" button on the startup page, enter the song title and artist(s), and click "Create".  
-You will now see the beatmap Information Edit page.
+# MIDI Beatmap Generation
 
- 
-## **Import MIDI**
-Before importing the MIDI file, please click the "Song" button to improt your prepared song file, search the audio file in the pop-up window and click "Open" to import it. Again, only OGG files are currently supported, all other formats will not be displayed in the window.  
-Then you also need to add a cover image (jpeg, jpg and png formats less than 1MB). We normally will use the album cover of the song as the beatmap cover，and we recommend the image to be at 100x100 resolution for the best in-game visual effects. The step to importing the cover is the same as importing your song file. Don't forget to improt a short preview audio for your beatmap to play when it is selected on the game menu, it is recommended to capture 15-30 seconds of the climax of the song as the preview audio.  
-Then you are able to click "MIDI" button, search a prepared MIDI file in the pop-up window and click "Open" to import. Only the MIDI file that matches the song can generate the beatmap that matches the song for you. After succeesfully improting the MIDI file, you will be automatically redirected to the MIDI Track Assigment page.  
-### **Where to get MIDI files?**
- You can search and download MIDI files in websites such as [BitMidi](https://bitmidi.com/) and [midiworld](https://www.midiworld.com/), or download music edit softwares such as [Reaper](https://www.reaper.fm/) or [Musescore](https://musescore.com/) to make your own MIDI files.  
+## **What are MIDI files**
+MIDI files are sheet music information files that include database of various kinds of instruments, types and lengths of notes, pitch and other musical parameters required for performing a song. By importing MIDI file, we will automatically generate a beatmap for you which you can further adjust and modify as per your preferences.  
 
-## **MIDI Tracks Assigment**  
-**MIDI File** displays the name of the MIDI file you are currently using, click to bring up a pop-up window to re-import or replace the MIDI file.  
-**MIDI Tracks** shows all the tracks contained in your imported MIDI file, and on the right side of each track there are four instrument switch-buttons representing the Drum, Guitar, Bass, and Keyboard that can be played in BandSpace. Light up a instrument button of a track, to assign the MIDI notes contained in this track to the wait-to-generate beatmap of the lighten instrument. A track can be assigned to all four instruments at the same time, and there is no limit to the number of tracks that an instrument can contain, we will generate a beatmap based on your assignment. We will automatically identify and assign the instruments if the names of the tracks in the MIDI files already has relevant keywords, of course, you will able to make more changes.  
-**Track Assigment List** shows the tracks you have assigned to different instruments. Based on the musical notes contained in the MIDI track, we will also generate audio files of hit-sound of different instruments as playing. You can select an appropriate instrument sound style from the drop-down options next to each instrument. Click the play button next to the drop-down option to listen to the demo-audio of the hit-sound on the basis of the original song. Assign at least one MIDI track to the instrument to generate the demo-audio of that instrument.
+You can find and download MIDI files from websites like [BitMidi](https://bitmidi.com/) or [midiworld](https://www.midiworld.com/), or make your own with music editing softwares like [Reaper](https://www.reaper.fm/) or [Musescore](https://musescore.com/).
+
+## **Creating a New MIDI Generation**
+When you have a MIDI file that matches with the audio file, we can begin.  
+Open the **MIDI Generations** tab in the list of songs, all maps generated through MIDI will be displayed under this tab.  
+Click on the **New MIDI Generation** button on this page to create a new beatmap through MIDI generation.
+
+## **Importing MIDI**
+Please complete the basic information of the beatmap first, as well as the importation of audio files, etc.  
+After importing an audio file, you can click on the **Import MIDI** button to find and import your prepared MIDI file.   
+Only a MIDI file that matches with a song can generate a game beatmap that matches with it.  
+After successfully importing your MIDI file, you will be automatically redirected to the page for assigning midi tracks.
+
+## **Assigning MIDI Tracks**
+**MIDI Tracks** section will display all tracks contained within the imported MIDI file. On the right of each track, there are four instrument toggle buttons, each representing the drums, keyboard, bass and guitar that can be played in BandSpace.  
+Highlighting an instrument button on a track will assign the MIDI notes contained in that track to a beatmap for that instrument.  
+A single track can be assigned to all four instruments at once and there is no limit to how many tracks an individual instrument can have assigned to it. Your beatmap is then generated based on these assignments.  
+If your MIDI file contains relevant keywords in its named tracks, we'll help you auto-assign them but you're always free to make more modifications as desired.  
+
+**Track Assignment List** will display the tracks that you have assigned to different instruments.
 
 ## **Generate!**
-After you've determined all the adjustments and assigned a MIDI track to at least one instrument, click "Generate!" button, wait a moment, and your custom beatmap is here! We will automatically open the beatmap folder for you! 
-It is important to note that we will not save your MIDI file to the beatmap folder, and the mechanism of the beatmap generation is somewhat random, so each generated beatmap will be somewhat different. 
-Place the beatmap folder into the specified path metioned in [Play Custom Map](play-custom-map), and now you can play the beatmap in the game！
+After making sure all adjustments are correct, and you've assigned MIDI tracks to at least one instrument, click the "Generate!" button. Wait a moment and your beatmap will be ready!  
+Please note that the beatmap generation mechanism has some randomness. Therefore, the generated beatmaps will have a certain degree of variation each time.
+
+## **Edit**
+After the beatmap is generated, you can select the instrument for which you have a completed beatmap, click the **Open Editor** button, and enter into editing mode to make more adjustments to this instrument's beatmap. For more details please see [Mapping Instruction](mapping-instruction).

@@ -1,25 +1,26 @@
 ---
 layout: en_default
-title:  BandSpace Beatmap Editor
+title:  BandSpace Editor
 tagline:
 language: en
 ---
-# Prep Work 
-Want to design your own superstring sheet music? Let's prepare the following first.
+# Before Mapping 
+Want to create your own BandSpace beatmaps? Let's prepare the following first.
 
 ## **A computer**
-To run Band Space Beatmap Editor, you need a computer with Windows 10 or Windows 11.
+To run the BandSpace Editor, you will need a computer running either Windows 10 or Windows 11.
 
-## **Install the software**
-Please click the "Download" button above, or [ClickHere](https://github.com/Smartmelon/BandSpace/releases) to the download page.
+## **Install Beatmap Editor**
+Please click the "Download" button above, or click [Here](https://github.com/Smartmelon/BandSpace/releases) to navigate to the releases page.
 
 ## **Songs**
 ### Choose a suitable song
-Great music is essential to a great score. In theory, any song you like can be used to design a score. But Superstring is a VR game with musical instruments, so for a good play experience, it is recommended that you use songs with at least one instrument that stands out from your hearing.  
+A good beatmap can't be separated from excellent music. In theory, any song you like can be used for designing maps. However, since BandSpace is an VR music game that involves playing an instrument, for a good gaming experience it is recommended that you choose songs where at least one instrument stands out audibly.  
 
-### Get song files
-Once you have chosen the song, you need to have the right audio file to import it into the editor.  
-The Band Space Editor requires song files to be in Vorbis format. The file extension for Vorbis format is ".ogg".  
-If you can't find the OGG file, you can also easily convert audio files in other formats (such as WAV or MP3) to OGG files. There is plenty of software that can do this, such as [Audacity](https://www.audacityteam.org/) or [FormatFactory](http://www.pcgeshi.com/index.html)。
+### Provide your File of Song
+Once confirming your song choice, provide a suitable audio file format which will be imported into editor.  
+Note: It requires file format ends with **.ogg**.  
+If there are no available **.ogg** audio file which is demanded by editor mode in official game for working properly. You could also convert other types of audio files into **.ogg** type comfortably.  
+There are many software available to do this task like [Audacity](https://www.audacityteam.org/) or [FormatFactory](http://www.pcgeshi.com/index.html).  
 
-If you've already launched the Band Space Editor and have your audio files ready, then follow the [Mapping Instruction](mapping-instruction) before you can design the beatmap freely.
+Once preparing these demands ahead , follow [Mapping Instruction](mapping-instruction) then start designing freely on it.

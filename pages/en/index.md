@@ -1,33 +1,35 @@
 ---
 layout: en_default
-title:  BandSpace Beatmap Editor
+title:  BandSpace Editor
 tagline: 
 language: en
 ---
 
-Welcome to the BandSpace Beatmap Editor  
-Version number: V0.2.2  
-Last Updated: July 12, 2023  
+Welcome to BandSpace Beatmap Editor
+Version: V1.0.0
+Last update: January 21, 2025 
 
-> You can design beatmaps for your favorite songs and generate lighting effects with one-click. You can also export your beatmap files and share them with your friends!
+> You can design your favorite songs and automatically generate lighting effects.  
+> Welcome to upload and share the songs to the MOD community, thank you for your contribution to community building!
 
 # About
 
-## **What kind of software is this?**
-BandSpace Beatmap Editor is the official beatmap editor for the VR music game [BandSpace](https://store.steampowered.com/app/2182070). In this editor, you can design beatmaps for any song you like and play it in the game. You can also export and share your beatmap, and anyone can play the beatmap you designed  
+## **What is this software?**
+BandSpace Editor is the official beatmap editor for the VR rhythm game **BandSpace**, which you can find in [Meta](https://www.meta.com/experiences/band-space/26019802470968635/) and [Steam](https://store.steampowered.com/app/2182070).  
 
-By simply placing the custom beatmaps in the specified game path refer to [Play Custom Map](play-custom-map), and you are able to enjoy the custom beatmap in the game.
+With this editor, you can design beatmaps for your favorite songs, and upload them to share on the [Mod.io](https://mod.io/g/bandspace) community, allowing all players to play your designed map. 
 
-Want to start making your own map now? Go to [Before Mapping](before-mapping) to prepare your want-to-map audio.  
+Want to start making a custom map of yours? Head over to [Before Mapping](before-mapping) to prepare audio files that you want to make a map of.  
 
-If you've already have your audio files ready, then follow the [Mapping Instruction](mapping-instruction) to help you design some unique beatmaps.
-  
-You can also find an existing MIDI file online that matches your audio file, our [MIDI to Beatmap](midi-to-beatmap) feature will automatically create the beatmaps basic on the MIDI file for you.
+If you've prepared an audio file already, then follow our walkthrough on the [Mapping Instruction](mapping-instruction) page next.  
 
+Or find a MIDI file that matches with your audio on internet. Our [MIDI to Beatmap](midi-to-beatmap) feature will generate beatmaps based off it automatically for you.  
 
+By simply placing the custom beatmaps in the specified game path refer to [Play Custom Map](play-custom-map) and enjoy them in-game!
 
-## **Did you find any problems during use?**
-What did you find wrong? or have anything to say.  
-Please email them to **BandSpace@thesmartmelon.com**，  
-Or click to join [BandSpace Discord server ](https://discord.com/invite/hZA9xsfYnn)or [Tencent QQ group 648670665](https://jq.qq.com/?_wv=1027&k=VfRPDaKg) to participate in the discussion.    
-Thank you for supporting Band Space, and we will continue optimizing the editor based on your feedback.
+## **Encountered an issue while using it?**
+Did something stopped working or anything else happened?  
+Join our [Discord](https://discord.gg/bandspace) or send them in an email at **bandspace@thesmartmelon.com**  
+We're happy listening!  
+
+Thanks supporting us on BandSpace!
